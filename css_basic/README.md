@@ -1,0 +1,1 @@
+We will be styling our html basic with some css basic.
