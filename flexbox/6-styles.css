@@ -216,7 +216,7 @@ Click to expand/hide file contents
     display: flex;
     
   }
-  .nav .nav-item+.nav-item {
+  .nav .nav-item + .nav-item {
     margin: var(0 0 0 2rem);
 }
   .nav .nav-item {
